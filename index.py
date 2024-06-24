@@ -1,3 +1,3 @@
-a = 10
-b = 6
-print(a + b)
+z = 6
+y = 7
+print(z*y)
